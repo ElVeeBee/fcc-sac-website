@@ -1,0 +1,50 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.navi-main {
+  background-color: #2681BC;
+  border: 0px;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.navi-footer {
+  background-color: #2681BC;
+  border: 0px;
+  border-radius: 0px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.navi-content {
+  padding: 15px;
+  margin-bottom: 0px;
+}
+
+.mat{
+  min-height: 66%;
+  min-height: 66vh;
+  display: flex;
+  align-items: flex-end;;
+  background-image: url('images/sacramentotowerbridge.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: #fff;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.mat .img-cc {
+  font-size: 1em;
+  text-align: right;
+  margin-bottom: 0px;
+}
+
+.lg-icon {
+  font-size: 4em;
+}
