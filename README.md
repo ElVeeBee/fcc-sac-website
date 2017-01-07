@@ -1,8 +1,8 @@
-#FreeCodeCamp Sacramento
+#FreeCodeCamp Sacramento - freecodecamp-sacramento.github.io
 
 ![alt text][banner]
 
-[banner]: https://github.com/freecodecamp-sacramento/freecodecamp-sacramento.github.io "FreeCodeCamp Sacramento"
+[banner]: https://github.com/freecodecamp-sacramento/freecodecamp-sacramento.github.io/images/fccsac-banner.jpg "FreeCodeCamp Sacramento"
 
 Welcome to FreeCodeCamp Sacramento! Our members are currently building the website. The purpose of our website is to have members learn how to use git and github and collaborating with others.
 
