@@ -35,8 +35,15 @@ If you have any issues, problems, or concern, please inform one of the admins or
 
 We are currently using Floobits for our remote pair programming needs. It has a bunch of features such as follow, built-in video chat/chatroom, terminal sharing, etc. It's a really awesome program. Here how you can use it:
 
-1. Create a free account Floobits account at [https://www.floobits.com/](https://www.floobits.com/)
+1. Create a free account at [Floobits](https://www.floobits.com/)
 2. Follow the instructions for your favorite text-editor on how to install the floobits plugin (if you don't have one, you can use their browser-based text-editor)
 3. Join the workspace using the URL [https://www.floobits.com/freecodecamp-Sacramento/fccsac](https://www.floobits.com/freecodecamp-Sacramento/fccsac)
 4. Request permission to edit files
 5. Find a partner, or work by yourself, and you are good to go!
+
+## Join our Slack channel
+
+We are apart of the SacTech community and utilize their Slack domain. To join, follow the instructions below.
+
+1. Go to [SacTech Slack](https://www.sac-tech.herokuapp.com/) to get an invitation key.
+2. Once you are approved and logged into SacTech Slack, find our channel under #FreeCodeCamp
