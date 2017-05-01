@@ -14,7 +14,7 @@ const cssConfig = isProd ? cssProd : cssDev;
 module.exports = {
     entry: './src/scripts/app.js',
     output: {
-        path: resolve(__dirname, 'dist'),
+        path: resolve(__dirname, 'docs'),
         filename: 'bundle.js',
     },
     module: {
@@ -44,7 +44,7 @@ module.exports = {
         ]
     },
     devServer: {
-        contentBase: resolve(__dirname, 'dist'),
+        contentBase: resolve(__dirname, 'docs'),
         compress: true,
         hot: true,
         stats: 'errors-only',
