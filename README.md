@@ -25,8 +25,11 @@ If you have any issues, problems, or concern, please inform one of the admins or
 ## How to Contribute
 
 1. Create a Github account if you don't one
-2. Fork the repository by clicking on the "Fork" button on the top-right
-3. Download the repository to your local hard drive
+2. Download or clone the repository to your local hard drive
+3. For macOS users (sorry Windows folks), in your terminal, install Homebrew by typing in `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+4. Run `brew install yarn` in your terminal
+5. Using your terminal, navigate to the directory where you cloned the repository
+6. Using your terminal, run `yarn install` in the root directory
 4. Open your text editor and navigate to the directory
 5. See our "to-do" list under the "Issues" tab on Github and work on that task or you can start coding your own ideas!
 6. When finished, push your commit and we'll review your changes
