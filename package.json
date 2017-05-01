@@ -1,0 +1,33 @@
+{
+  "name": "fccsac",
+  "version": "1.0.0",
+  "description": "website for freecodecamp sacramento",
+  "main": "app.js",
+  "repository": "git@github.com:FreeCodeCamp-Sacramento/freecodecampsacramento.git",
+  "author": "Billy Le <lebilly87@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "prod": "yarn run clean && NODE_ENV=production webpack -p",
+    "clean": "rimraf ./dist/*"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.1",
+    "html-loader": "^0.4.5",
+    "html-webpack-plugin": "^2.28.0",
+    "node-sass": "^4.5.2",
+    "pug": "^2.0.0-beta.12",
+    "pug-loader": "^2.3.0",
+    "raw-loader": "^0.5.1",
+    "rimraf": "^2.6.1",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "image-webpack-loader": "^3.3.0"
+  }
+}
