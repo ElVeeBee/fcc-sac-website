@@ -2,7 +2,7 @@
 
 ![alt text][banner]
 
-[banner]: /images/fccsac-banner.jpg "FreeCodeCamp Sacramento"
+[banner]: /src/assets/images/fccsac-banner.jpg "FreeCodeCamp Sacramento"
 
 Welcome to FreeCodeCamp Sacramento! Our members are currently building the website. The purpose of our website is to have members learn how to use git and github and collaborating with others.
 
