@@ -43,17 +43,18 @@ module.exports = {
             }
         ]
     },
+    devtool: 'source-map',
     devServer: {
         contentBase: resolve(__dirname, 'docs'),
         compress: true,
         hot: true,
-        stats: 'errors-only',
-        open: true
+        open: true,
+        publicPath: '/'
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: "Billy's Pomodoro Clock",
-            template: './src/docs/index.html',
+            title: "freeCodeCamp Sacramento",
+            template: './src/docs/index.pug',
             hash: true
         }),
         new ExtractTextPlugin({
